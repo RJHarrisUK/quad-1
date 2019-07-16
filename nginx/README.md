@@ -1,6 +1,7 @@
 # docker-nginx
 NGINX in Docker
 
+A small change occured
 This project is mainly used for quickly creating reverse proxies for other services
 
 New location contexts can loaded, or copied into the running container at this location: `/etc/nginx/conf.d/*.conf`.  
